@@ -1,0 +1,101 @@
+h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.line-form{
+    border-top: solid 1px rgba(255, 255, 255, 0.425) !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px;
+}
+
+li{
+    list-style: none !important;
+}
+
+.attributes{
+    background-color: rgba(8, 3, 17, 0.205);
+    border: solid 1px transparent;
+    border-radius: 5px;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: #9b0181 !important;
+    color: #fff !important;
+}
+
+.css-kr9fz6-MuiFormLabel-root{
+    color: rgba(255, 255, 255, 0.425) !important;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root{
+    color: #fff !important;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate{
+    color: #9b0181 !important;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root{
+    background-color: #9b0181 !important;
+    color: #020202 !important;
+    border-bottom: #020202 1px solid !important;
+    padding: 10px !important;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:last-of-type{
+    border-bottom: none !important;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+    color: #fff !important;
+    text-align: left !important;
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list{
+    padding: 0px !important;
+    background-color: #9b0181 !important;
+    border: transparent solid 2px !important;
+    border-radius: 5px !important;
+}
+
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root{
+    color: #fff !important;
+}
+
+.attributes-label{
+    color: #fff !important;
+}
+
+input{
+    color: #fff !important;
+}
+
+input:-internal-autofill-selected {
+    appearance: none !important;
+    background-image: none;
+    background-color: #020202 !important;
+    color: #fff !important;
+}
+
+
+label{
+    color: #fff !important;
+}
+
+#outlined-select-currency{
+    color: #fff !important;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon{
+    fill: #fff !important;
+}
+
+.css-bpeome-MuiSvgIcon-root-MuiSelect-icon{
+    fill: #fff !important;
+}
